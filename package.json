@@ -45,6 +45,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.10.3",
+    "terser": "^5.19.4",
     "webpack": "^2.3.3"
   },
   "dependencies": {
